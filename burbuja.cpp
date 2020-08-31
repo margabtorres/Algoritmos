@@ -9,6 +9,7 @@
 // Github: @abranhe
 //
 #include <stdio.h>
+#include <stdlib.h>
 
 // Swap elements
 void intercambiar(int *x, int *y)
